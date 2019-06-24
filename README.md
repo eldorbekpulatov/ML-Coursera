@@ -1,2 +1,2 @@
-# ML-Coursera
-Assignments for Coursera's Machine Learning class taught by Andrew Ng.
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
